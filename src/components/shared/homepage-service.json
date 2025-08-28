@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_homepage_services",
+  "info": {
+    "displayName": "homepageService"
+  },
+  "options": {},
+  "attributes": {
+    "serviceTwoTitle": {
+      "type": "string"
+    },
+    "serviceTwoText": {
+      "type": "text"
+    },
+    "serviceTwoCta": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

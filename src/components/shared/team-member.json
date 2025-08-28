@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_shared_team_members",
+  "info": {
+    "displayName": "teamMember",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "linkedIn": {
+      "type": "string"
+    },
+    "memberImage": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

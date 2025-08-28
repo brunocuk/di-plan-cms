@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_shared_reviews",
+  "info": {
+    "displayName": "review",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "reviewText": {
+      "type": "text"
+    },
+    "name": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "revImage": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

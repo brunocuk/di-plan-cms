@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_shared_our_processes",
+  "info": {
+    "displayName": "ourProcess",
+    "icon": "connector"
+  },
+  "options": {},
+  "attributes": {
+    "step": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
